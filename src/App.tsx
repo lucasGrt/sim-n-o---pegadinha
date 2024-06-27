@@ -11,7 +11,7 @@ function App() {
           <div className="flex flex-row w-full items-center justify-center gap-6 mt-10 max-sm:flex-col max-sm:gap-2">
 
             <Button text="SIM" color="green" onClick={() => {}}  />
-            <Button text="NÃO" color="red" onClick={() => {}}  />
+            <Button id="botaoNao"  text="NÃO" color="red" onClick={() => {}}  />
             
             
           </div>
